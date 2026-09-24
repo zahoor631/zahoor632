@@ -1,12 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Zahoor+Illahi;Web+Developer;Networking+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">A passionate developer from Pakistan 🇵🇰</h3>
-
-<p align="center">
+<div align="center">
+  <img src="https://github.com/zahoor631/zahoor631/blob/main/profile.jpg?raw=true" width="150" height="150" style="border-radius: 50%; border: 4px solid #F75C7E;" alt="Zahoor Illahi" />
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Zahoor+Illahi;Web+Developer;Networking+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  </h1>
+  
+  <h3>A passionate developer from Pakistan 🇵🇰</h3>
+  
   <img src="https://komarev.com/ghpvc/?username=zahoor631&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</div>
 
 ---
 
