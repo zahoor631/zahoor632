@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/zahoor631/zahoor631/blob/main/profile.jpg?raw=true" width="150" height="150" style="border-radius: 50%; border: 4px solid #F75C7E;" alt="Zahoor Illahi" />
+  <img src="https://github.com/zahoor631/zahoor631/blob/main/profile.jpeg?raw=true" width="150" height="150" style="border-radius: 50%; border: 4px solid #F75C7E;" alt="Zahoor Illahi" />
   
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Zahoor+Illahi;Web+Developer;Networking+Enthusiast;Always+Learning!" alt="Typing SVG" />
